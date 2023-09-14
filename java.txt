@@ -1,8 +1,19 @@
 public greet(){
+sysytem.out.println("hii");
+};
 
+
+
+
+
+
+
+<<<<<<< Updated upstream
 }
 
 
 public static void ,maina{
 
 }
+=======
+>>>>>>> Stashed changes
