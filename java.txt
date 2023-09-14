@@ -1,3 +1,8 @@
 public greet(){
 
 }
+
+
+public static void ,maina{
+
+}
